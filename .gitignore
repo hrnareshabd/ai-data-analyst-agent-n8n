@@ -1,0 +1,23 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+credentials/
+*.pem
+*.key
+
+# n8n local state and execution data
+.n8n/
+n8n-data/
+executions/
+
+# Dependencies and logs
+node_modules/
+*.log
+npm-debug.log*
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
