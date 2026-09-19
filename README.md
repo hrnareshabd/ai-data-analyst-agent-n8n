@@ -1,6 +1,12 @@
 # AI Data Analyst Agent for n8n
 
+[![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?logo=n8n&logoColor=white)](https://n8n.io/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-AI_Agent-412991?logo=openai&logoColor=white)](https://openai.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-22c55e.svg)](LICENSE)
+
 An AI-powered data analyst built in [n8n](https://n8n.io/) that reads sales data from Google Sheets, answers natural-language questions, and emails polished HTML reports through Gmail.
+
+**[View the portfolio case study](https://naresh-hr-portfolio.netlify.app/#projects) · [Import the workflow](workflows/ai-data-analyst-agent.json) · [Follow the setup guide](docs/setup.md)**
 
 ![n8n AI Data Analyst workflow](screenshots/workflow-overview.png)
 
